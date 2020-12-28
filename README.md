@@ -5,4 +5,4 @@ I am a Web Developer, Software Engineer, and a Lifelong Learner who is passionat
 - :house_with_garden: I'm currently living in **Selma, CA**
 - :hammer: Tools and Technologies I Use: **HTML**, **CSS**, **JavaScript**, **React**, **Python**, **Java**, **JavaFX**, **SQL**
 - :bulb: Currently Learning: **Vue**
-- :zap: Fun Fact: **Liverpool Football Club** is the club in the world.
+- :zap: Fun Fact: **Liverpool Football Club** is the best football club in the world.
